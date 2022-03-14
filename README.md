@@ -26,7 +26,7 @@ Shortcut mail.exe.
 ```
 <!--END_SECTION:waka-->
 
-Your application code is in google_clone\lib\main.dart.
+Your application code is in mail_clone\lib\main.dart.
 
 # Assets/Videos
 
