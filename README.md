@@ -33,8 +33,8 @@ Your application code is in google_clone\lib\main.dart.
 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/57798484/158170917-fddbb0ed-82ee-4259-bd32-848697072a15.png" width="500" />
-  <img src="https://user-images.githubusercontent.com/57798484/158170932-6d4987d5-8756-4f58-948e-e5654b50b114.png" width="500"/>
+  <img src="https://user-images.githubusercontent.com/57798484/158170917-fddbb0ed-82ee-4259-bd32-848697072a15.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/57798484/158170932-6d4987d5-8756-4f58-948e-e5654b50b114.png" width="400"/>
 </p>
 
 
