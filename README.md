@@ -1,4 +1,5 @@
 
+
 # mail_clone
 
 A new Flutter project.
@@ -16,6 +17,12 @@ In order to run your application, type:
 <!--START_SECTION:waka-->
 ```text
   $ flutter run
+```
+<!--END_SECTION:waka-->
+Shortcut mail.exe.
+<!--START_SECTION:waka-->
+```text
+  $ mail_clone\build\windows\runner\Release/mail.exe
 ```
 <!--END_SECTION:waka-->
 
